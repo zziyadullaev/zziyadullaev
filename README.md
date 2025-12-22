@@ -1,21 +1,22 @@
 <!-- HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Zuhriddin%20Ziyadullaev&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Agentic%20Systems&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Zuhriddin%20Ziyadullaev&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%40%20Ericsson%20%7C%20CS%20Student%20%40%20ELTE&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer** specializing in **Python**, **agentic systems**,  
-and **Loop‑based automation pipelines**. My work focuses on building  
-**explainable, reliable, and clinically meaningful AI systems** for  
-telecom and healthcare.
+I'm an **AI/ML Engineer at Ericsson** and a **Computer Science student at ELTE**,  
+specializing in **Python**, **agentic systems**, and **Loop‑based automation pipelines**.  
+My work focuses on building **explainable, reliable, and domain‑aware AI systems**  
+for telecom and healthcare.
 
 - 🧠 Intelligent agents & multi-step reasoning  
 - 🐍 Python-first ML development (PyTorch, scikit-learn, FastAPI)  
 - 📡 Graph-based RCA systems at Ericsson  
 - ❤️ ECG signal processing & explainable clinical ML  
+- 🎓 CS @ ELTE — strong foundations in algorithms, ML, and systems  
 - 🔍 Obsessed with reproducibility, fairness, and clean evaluation  
 
 ---
@@ -63,7 +64,7 @@ data validation, and reproducible evaluation.
 End-to-end ECG pipeline: preprocessing, wave delineation,  
 arrhythmia classification, and explainable visualizations.
 
-### 📡 **Telecom RCA Graph System**
+### 📡 **Telecom RCA Graph System (Ericsson)**
 Graph-based knowledge system for multi-hop reasoning,  
 embedding search, and automated root-cause analysis.
 
@@ -84,6 +85,8 @@ embedding search, and automated root-cause analysis.
 
 ## 🏆 Achievements
 
+- ✅ AI/ML Engineer @ Ericsson  
+- ✅ CS Student @ ELTE  
 - ✅ Built agentic systems with Loop pipelines  
 - ✅ Developed explainable ECG ML models  
 - ✅ Designed graph-based RCA reasoning systems  
