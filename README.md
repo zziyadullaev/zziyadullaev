@@ -78,9 +78,8 @@ embedding search, and automated root-cause analysis.
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zziyadullaev&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zziyadullaev&theme=github_dark&hide_border=true&background=%230d1117&stroke=%2358a6ff&ring=%2358a6ff&fire=%23ff6b6b&currStreakLabel=%2358a6ff" alt="GitHub Streak"/>
 </div>
-
 ---
 
 ## 🏆 Achievements
