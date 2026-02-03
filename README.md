@@ -72,14 +72,52 @@ embedding search, and automated root-cause analysis.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zziyadullaev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zziyadullaev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
-</div>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api
+      ?username=zziyadullaev
+      &show_icons=true
+      &theme=github_dark
+      &hide_border=true
+      &bg_color=0d1117
+      &title_color=58a6ff
+      &icon_color=58a6ff
+      &text_color=ffffff
+      &count_private=true
+      &v=1"
+  />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zziyadullaev&theme=github_dark&hide_border=true&background=%230d1117&stroke=%2358a6ff&ring=%2358a6ff&fire=%23ff6b6b&currStreakLabel=%2358a6ff" alt="GitHub Streak"/>
-</div>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/
+      ?username=zziyadullaev
+      &layout=compact
+      &theme=github_dark
+      &hide_border=true
+      &bg_color=0d1117
+      &title_color=58a6ff
+      &text_color=ffffff
+      &langs_count=8
+      &v=1"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com
+      ?user=zziyadullaev
+      &theme=github_dark
+      &hide_border=true
+      &background=%230d1117
+      &stroke=%2358a6ff
+      &ring=%2358a6ff
+      &fire=%23ff6b6b
+      &currStreakLabel=%2358a6ff
+      &v=1"
+    alt="GitHub Streak"
+  />
+</p>
 ---
 
 ## 🏆 Achievements
